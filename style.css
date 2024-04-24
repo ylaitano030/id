@@ -1,14 +1,27 @@
 @charset "UTF-8";
 
 body{
-    background-color:rgb(205, 255, 203);
-    Font-family: Arial, HElvetica, sans-serif;
+    background-color: rgb(205, 255, 203);
+    Font-family: Arial, Helvetica, sans-serif;
 }
 h1
 {
     color: (green);
 }
-h2
-{
-  color: (orange);
+h1#principal {
+    text-aling: center;
+    color: white;
+    background-color:(green);
+}
+
+
+h2#impar {
+    font-size: 16pt
+    color: red
+    font-family: Arial
+}
+h2#par {
+    font-size: 20pt
+    color: blue
+    font-family: Verdana
 }
