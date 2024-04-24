@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE">
     <title></title>
     <link rel="stylesheet"        href="style.css"
+    
 </head>
 <body>
   <h1> Iportâncias de utilizar métodos de estudo</h1>
