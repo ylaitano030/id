@@ -6,12 +6,12 @@ body{
 }
 h1
 {
-    color: (green);
+    color: green;
 }
 h1#principal {
     text-aling: center;
     color: black;
-    background-color:(green);
+    background-color:green;
 }
 
 
