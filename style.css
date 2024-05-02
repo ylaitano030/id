@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
 body{
-    background-color: red;
+    background-color: White;
     Font-family: Arial, Helvetica, sans-serif;
 }
 h1
 {
-    color: White;
+    color: Black;
 }
 h1#principal {
     text-aling: center;
