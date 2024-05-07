@@ -17,11 +17,11 @@ h1#principal {
 
 h2#impar {
     font-size: 16pt
-    color: red
+    color: red;
     font-family: Arial
 }
 h2#par {
     font-size: 20pt
-    color: blue
+    color: blue;
     font-family: Verdana
 }
