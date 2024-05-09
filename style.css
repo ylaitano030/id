@@ -15,15 +15,15 @@ h1#principal {
 }
 
 
-h2#impar {
+p#impar {
     font-size: 16pt
     color: red;
-    font-family: Arial
+    font-family: Arial;
     background-color:Red;
 }
-h2#par {
+p#par {
     font-size: 20pt
     color: blue;
-    font-family: Verdana
+    font-family: Verdana;
     background-color:blue;
 }
