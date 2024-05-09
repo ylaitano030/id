@@ -11,7 +11,7 @@ h1
 h1#principal {
     text-aling: center;
     color: black;
-    background-color:green;
+    background-color:Pink;
 }
 
 
@@ -19,9 +19,11 @@ h2#impar {
     font-size: 16pt
     color: red;
     font-family: Arial
+    background-color:Red;
 }
 h2#par {
     font-size: 20pt
     color: blue;
     font-family: Verdana
+    background-color:blue;
 }
