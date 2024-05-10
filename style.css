@@ -19,11 +19,11 @@ p#impar {
     font-size: 16pt
     color: red;
     font-family: Arial;
-    background-color:Red;
+    background-color: White;
 }
 p#par {
     font-size: 20pt
     color: blue;
     font-family: Verdana;
-    background-color:blue;
+    background-color: White;
 }
